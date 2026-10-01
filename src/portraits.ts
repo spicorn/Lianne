@@ -13,7 +13,7 @@ export const portraits = [
   {
     src: blossoms,
     alt: 'Lianne in a floral dress and round sunglasses, in front of a hedge and a tree of yellow blossoms',
-    caption: 'Yellow blossoms, and you',
+    caption: 'Yellow blossoms and you',
   },
   {
     src: lawn,
