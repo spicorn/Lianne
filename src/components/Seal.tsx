@@ -24,7 +24,7 @@ function whatsAppHref(accepted: boolean, outing: Outing | null, date: string | n
   if (outing) parts.push(outingLabel[outing])
   if (date) parts.push(prettyDate(date))
   const text = encodeURIComponent(parts.join(' · '))
-  return `https://wa.me/27787828366?text=${text}`
+  return `https://wa.me/263787828366?text=${text}`
 }
 
 export function Seal({ accepted, outing, date }: SealProps) {
